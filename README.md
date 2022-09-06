@@ -19,14 +19,14 @@ Here is also the final result of notebook: [FinalProject.md](https://github.com/
 
 Contributors and their work summary:
 
-Piotr Scząchor
+[Piotr Scząchor](https://github.com/PiotrSzczachor)
 - data analysis
 - data cleaning 
 - the whole process of working with geopandas 
 - preparing data to machine learning
 - implementation of machine learning
 
-Anna Ostrowska 
+[Anna Ostrowska](https://github.com/ostrowskaanna) 
 - data analysis 
 - data cleaning
 - wiki page

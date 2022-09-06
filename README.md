@@ -3,7 +3,7 @@
 Our dataset consists of parking regulations types that are applied in San Francisco. 
 
 Working with dataset is basically divided into two major parts:
-1. First part consists of BASIC [dataset analysis](https://gitlab.kis.agh.edu.pl/data-engineering-2022/i12-parking-regulations-in-san-francisco/-/wikis/Dataset-analysis) and [data cleaning](https://gitlab.kis.agh.edu.pl/data-engineering-2022/i12-parking-regulations-in-san-francisco/-/wikis/Cleaning-data---OSM) - these are the small steps that were discussed during consultations.<br>You can also take a look on the summary of our discussions: [Wiki Page](https://gitlab.kis.agh.edu.pl/data-engineering-2022/i12-parking-regulations-in-san-francisco/-/wikis/Meetings-summary).
+1. First part consists of BASIC [dataset analysis](https://github.com/PiotrSzczachor/Parking-regulations-in-San-Francisco---Data-Engineering-project/wiki/Data-analysis) and [data cleaning](https://gitlab.kis.agh.edu.pl/data-engineering-2022/i12-parking-regulations-in-san-francisco/-/wikis/Cleaning-data---OSM) - these are the small steps that were discussed during consultations.<br>You can also take a look on the summary of our discussions: [Wiki Page](https://gitlab.kis.agh.edu.pl/data-engineering-2022/i12-parking-regulations-in-san-francisco/-/wikis/Meetings-summary).
 2. Second part is where it all happens! Here can be found the whole process of:
 - preparing dataset, 
 - thinking of machine learning, 

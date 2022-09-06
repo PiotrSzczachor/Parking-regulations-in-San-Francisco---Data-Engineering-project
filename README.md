@@ -1,4 +1,4 @@
-# I12. Parking regulations in San Francisco
+# Parking regulations in San Francisco
 
 Our dataset consists of parking regulations types that are applied in San Francisco. 
 
